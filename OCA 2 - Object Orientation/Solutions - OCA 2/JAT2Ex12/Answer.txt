@@ -1,0 +1,24 @@
+Correct Answer:
+In static initialiser block - Parent.
+In static initialiser block - Child.
+In instance init block - Parent.
+In Parent constructor.
+In instance init block - Child.
+In Child constructor.
+5
+2
+10
+20
+
+Incorrect Answer
+
+In static initialiser block - Parent.
+In instance init block - Parent.
+In Parent constructor.
+In static initialiser block - Child.
+In instance init block - Child.
+In Child constructor.
+5
+2
+10
+20

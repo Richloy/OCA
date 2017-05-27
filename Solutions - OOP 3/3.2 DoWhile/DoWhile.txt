@@ -1,0 +1,6 @@
+// Assignment 3.2 DoWhile
+
+Answer: The output of the program is i=1.
+
+Explanation:
+The body of a do while loop will always execute at least once.

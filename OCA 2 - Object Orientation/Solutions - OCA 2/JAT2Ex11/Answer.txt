@@ -1,0 +1,40 @@
+
+Correct:
+In static initialiser (1)
+In static initialiser (2)
+In instance init block (1)
+In instance init block (2)
+In Constructor
+a's value is: 1
+b's value is: 2
+c's value is: 3
+d's value is: 4
+**************************
+In instance init block (1)
+In instance init block (2)
+In Constructor
+a's value is: 1
+b's value is: 2
+c's value is: 3
+d's value is: 4
+
+Incorrect Answer for Assignment
+In static initialiser (1)
+In static initialiser (2)
+In instance init block (1)
+In instance init block (2)
+In Constructor
+a's value is: 1
+b's value is: 2
+c's value is: 3
+d's value is: 4
+**************************
+In static initialiser (1)
+In static initialiser (2)
+In instance init block (1)
+In instance init block (2)
+In Constructor
+a's value is: 1
+b's value is: 2
+c's value is: 3
+d's value is: 4
