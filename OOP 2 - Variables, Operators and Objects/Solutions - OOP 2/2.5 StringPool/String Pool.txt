@@ -1,0 +1,37 @@
+ // Assignment 2.5 String Pool
+
+ method1()
+ 
+ Output: M1 The 2 strings are not equal
+ 
+ Explanation:
+ 
+ String mystring1 = "Hello World";	
+ << The string is stored in the String Literal Pool >>
+ 
+ String mystring2 = new String("Hello World");	
+ << As the new keyword has been used to create the String object, the object resides in an area of memory
+    known as the heap. >>
+	
+ << Therefore the object references mystring1 and mystring2 are pointing at different objects in memory. >>
+		
+method2()
+
+Output: M2 The 2 strings are equal
+
+Explanation:
+
+<< The equals() method checks the character sequence of the two strings to see if the characters are equal. >>
+<< The equals() method does not compare memory addresses, unlike the == operator, which does. >>
+
+method3()
+
+Output: M3 The 2 strings are equal
+
+Explanation:
+
+<< Both string variables contain the same memory address as both are pointing to the same String object in the String Literal Pool. >>
+
+    
+
+		
