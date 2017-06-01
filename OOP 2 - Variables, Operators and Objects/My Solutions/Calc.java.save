@@ -1,0 +1,12 @@
+import java.utils.scanner;
+
+class Calc {
+	public static void main(String[] args) {
+		scanner in = new Scanner(System.in);
+		int a = in.nextInt();
+		int b = in.nextInt();
+		
+		int total = a+b;
+		System.out.println(total);
+	}
+}
