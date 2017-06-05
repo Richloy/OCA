@@ -1,0 +1,3 @@
+interface Tunable {
+    void adjustTuning();
+}

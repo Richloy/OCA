@@ -1,0 +1,10 @@
+class StringPool {
+	public static void main(String[] args) {
+	System.out.println("Method 1:\n");
+	method1();
+
+	}
+}
+System.out.println("Method 1:\n");
+        method1();
+
